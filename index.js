@@ -1,3 +1,4 @@
+
 let nome = "Felipão"
 let xpHeroi = 10000
 
@@ -19,7 +20,7 @@ if (xpHeroi <= 1000) {
     console.log(nome + " de acordo com seu xp de Herói, seu elo é RADIANTE")
 }
 
-console.log ("PARABÉNS PELO ELO ATINGIDO " + nome + " !!!")
+console.log ("PARABÉNS PELO ELO ATINGIDO " + nome + " !")
 
 
 
